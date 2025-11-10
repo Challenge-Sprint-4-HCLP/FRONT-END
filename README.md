@@ -1,4 +1,4 @@
-# HTML Challenge Sprint 4
+# HCLP (Health Care Life Plan) - SPRINT 4
 
 > Plataforma web para gestão de agendamentos, com foco em experiência do usuário e organização operacional.
 
@@ -134,3 +134,4 @@ HTML Challenge Sprint 4/
 ---
 
 Projeto desenvolvido por Leonardo, Lucas e Henrique como parte do Sprint 4 do desafio HTML. O objetivo continua sendo evoluir a aplicação para um produto completo, seguro e escalável.
+
